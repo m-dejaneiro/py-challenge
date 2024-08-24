@@ -1,3 +1,3 @@
 # py-challenge
 
-#### pet-project will be added later
+#### NOTE! pet-project will be added later
